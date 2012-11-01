@@ -1,0 +1,13 @@
+﻿生成启动时间为 2012/4/28 16:25:42。
+     1>项目“E:\Algorithm Coding\Beautiful Coding\Beautiful Coding\Beautiful Coding.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Beautiful Coding.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Beatiful_Coding.cpp
+         Beatiful_Coding.cpp
+     1>e:\algorithm coding\beautiful coding\beautiful coding\beatiful_coding.cpp(75): fatal error C1075: 与左侧的 大括号“{”(位于“e:\algorithm coding\beautiful coding\beautiful coding\beatiful_coding.cpp(74)”)匹配之前遇到文件结束
+     1>已完成生成项目“E:\Algorithm Coding\Beautiful Coding\Beautiful Coding\Beautiful Coding.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.05
